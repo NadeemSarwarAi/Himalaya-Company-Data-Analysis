@@ -34,3 +34,5 @@ The expiry loss trend peaks in Q2 and Q3 of 2025, followed by a noticeable decli
 
 Hair Care (32%), Health Supplements (27%), and Oral Care (17%) fall into the high-risk inventory category. Their current stock levels are significantly lower than the average monthly demand, suggesting an urgent need for demand forecasting and supply realignment.
 
+
+Passowrd for excel file is 1234
