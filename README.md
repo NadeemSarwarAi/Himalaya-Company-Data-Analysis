@@ -1,38 +1,39 @@
-## Business Problem: Profitability and Supply Chain Optimization
+# Himalaya Business Intelligence Dashboard
 
-Himalayan FMCG is experiencing a decline in profitability due to revenue leakage from expired stock and a lack of clarity on key profit drivers across products and regions.
+## Business Performance & Inventory Optimization Analysis
 
-### Objectives
+### Situation
+Himalaya faced challenges in understanding product profitability while dealing with significant inventory losses due to product expiry. The business needed clear insights into financial performance and supply chain inefficiencies.
 
-#### 1. Minimize Financial Loss
-Reduce revenue leakage caused by product expiry and ineffective stock rotation.
+### Task
+Create an integrated BI solution to:
+- Analyze product-wise profitability and revenue trends
+- Identify expiry losses across categories and warehouses
+- Provide actionable insights for inventory optimization
 
-#### 2. Maximize Profitability
-Identify high-performing categories and regions to focus on revenue growth and margin improvement.
+### Action
+**Built two complementary dashboards:**
 
-#### 3. Prevent Operational Disruption
-Optimize supply chain processes to ensure product availability while reducing waste and inefficiencies.
+#### Dashboard 1: Financial Performance
+- **Product Profitability Analysis**: Horizontal bar charts showing avg. profit margins
+- **Revenue-Cost-Profit Breakdown**: Stacked bar visualization by product
+- **Category Performance**: Donut chart highlighting most profitable segments
+- **YoY Trend Analysis**: Profit growth vs expiry loss reduction
 
+#### Dashboard 2: Inventory Optimization  
+- **Expiry Loss Tracking**: Category-wise and warehouse-wise loss analysis
+- **High-Risk Product Identification**: Products with highest expiry rates
+- **30-Day Expiry Alerts**: Proactive warning system for near-expiry products
+- **Stockout Risk Assessment**: City-wise potential shortage indicators
 
+### Results
+**Key Achievements:**
+- Identified Face Care as most profitable category (15% margin)
+- Detected 70% reduction in expiry losses from 2022 to 2023
+- Enabled proactive inventory management with 30-day expiry alerts
+- Provided data-driven basis for marketing budget allocation
 
-## Analysis
-## City-Wise Profitability and Expiry Losses
+**Tech Stack:** Excel | Data Visualization | Business Intelligence
 
-Jamshedpur stands out as the most profitable city, showing stronger profit margins compared to other locations such as Aurangabad and Asansol. This indicates that Jamshedpur could serve as a performance benchmark for other regions.
-
-Expiry-related financial losses are distributed across major cities, with Bangalore, Thane, Nagpur, and Hyderabad being more affected. These regions indicate a need for targeted interventions in inventory planning and supply chain accuracy.
-
-## Category-Wise Margin Insights
-
-Categories like Immune Care demonstrate the highest profit margins at approximately 85%, making them strategic contributors to profitability. In contrast, Digestive Care and General Wellness show relatively modest margins of around 75%, highlighting potential areas for margin optimization.
-
-## Expiry Trend Analysis
-
-The expiry loss trend peaks in Q2 and Q3 of 2025, followed by a noticeable decline. This reduction aligns with the implementation of improved inventory control processes, indicating a positive operational impact.
-
-## High-Risk Inventory Categories
-
-Hair Care (32%), Health Supplements (27%), and Oral Care (17%) fall into the high-risk inventory category. Their current stock levels are significantly lower than the average monthly demand, suggesting an urgent need for demand forecasting and supply realignment.
-
-
-Passowrd for excel file is 1234
+---
+*Transforming raw data into actionable business insights*
